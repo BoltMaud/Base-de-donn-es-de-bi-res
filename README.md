@@ -11,3 +11,6 @@ A makefile help you to compile the project. Just use :
 ## Contributors 
 I did this project with Arthur Scheidel. 
 
+## French project description 
+[rapport.pdf](https://github.com/BoltMaud/Beers-Database/rapport.pdf)
+
