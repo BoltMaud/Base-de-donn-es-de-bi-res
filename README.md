@@ -12,5 +12,5 @@ A makefile help you to compile the project. Just use :
 I did this project with Arthur Scheidel. 
 
 ## French project description 
-[rapport.pdf](https://github.com/BoltMaud/Beers-Database/rapport.pdf)
+[rapport.pdf](https://github.com/BoltMaud/Beers-Database/blob/master/rapport.pdf)
 
